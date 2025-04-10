@@ -1,7 +1,7 @@
 # Ex03 Time Table
-## Date : 10.04.2025
-## Name : Eshwer M
-## Reg No : 212224040086
+## Date: 10.04.2025
+## Name: Eshwer M
+## Reg No: 212224040086
 
 ## AIM
 To write a html webpage page to display your slot timetable.
